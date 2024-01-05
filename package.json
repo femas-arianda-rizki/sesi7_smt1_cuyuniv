@@ -1,0 +1,14 @@
+{
+  "name": "sesi-7---smt-1",
+  "version": "1.0.0",
+  "description": "sesi 7 smt 1 cuy university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "femas123"
+  ],
+  "author": "femasarianda",
+  "license": "ISC"
+}
